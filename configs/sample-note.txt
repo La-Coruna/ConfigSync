@@ -1,0 +1,5 @@
+이 파일은 샘플 파일입니다.
+이 파일은 바탕화면으로 동기화됩니다.
+
+- 파일 이름: sample-note.txt
+- 대상 경로: %USERPROFILE%\Desktop
